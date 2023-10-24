@@ -31,7 +31,16 @@ img{
 .page-header{
     background: var(--WHITE, #FFF);
 }
-
+.container{
+    width: 1158px;
+    margin: 0 auto;
+    padding-left: 15px;
+    padding-right: 15px;
+}
+.page-navigator{
+    display: flex;
+    align-items: center;
+}
 
 .web-logo {
     font-family: "Raleway", sans-serif;
