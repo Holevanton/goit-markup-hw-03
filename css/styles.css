@@ -37,6 +37,9 @@ img{
     padding-top: 24px;
     padding-bottom: 24px;
 }
+.header{
+    display: flex;
+}
 .container{ 
     width: 1158px;
     margin-left: auto; 
