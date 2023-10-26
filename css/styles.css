@@ -29,8 +29,8 @@ img{
     display: block;
 }
 .section{
-    padding-top: 60px;
-    padding-bottom: 60px;
+    padding-top: 120px;
+    padding-bottom: 120px;
 }
 .page-header{
     border-bottom: 1px solid #e7e9fc;
@@ -142,6 +142,12 @@ img{
     background-color: #404BBF ;
 }
 
+.menu-functions-list{
+    display: flex;
+}
+.menu-functions-text{
+margin-bottom: 8px;
+}
 .menu-functions-item{
     background-color: #FFFFFF;
 }
