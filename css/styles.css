@@ -78,6 +78,10 @@ img{
 .menu-link:focus{
     color: #404bbf;
 }
+.menu-item{
+    padding-top: 24px;
+    padding-bottom: 24px;
+}
 .page-address{
     font-style: normal;
 }
