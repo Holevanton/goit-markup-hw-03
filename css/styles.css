@@ -144,12 +144,14 @@ img{
 
 .menu-functions-list{
     display: flex;
+    gap: 24px; 
 }
 .menu-functions-text{
 margin-bottom: 8px;
 }
 .menu-functions-item{
     background-color: #FFFFFF;
+    width: calc((100% - 72px) / 4);
 }
 
 
