@@ -34,7 +34,10 @@ img{
 }
 .page-header{
     border-bottom: 1px solid #e7e9fc;
+    width: 1158px;
     padding-top: 24px;
+    padding-left: 15px;
+    padding-right: 15px;
     padding-bottom: 24px;
 }
 .container{ 
@@ -105,6 +108,8 @@ img{
 
 .hero-section {
     background-color: #2E2F42;
+    padding-top: 188px;
+    padding-bottom: 188px;
    
 }
 .hero-section-text {
@@ -113,7 +118,7 @@ img{
     font-size: 56px;
     color: #FFFFFF;
     text-align: center;
-    width: 496px;
+    max-width: 496px;
     margin-left: auto;
     margin-right: auto;
     margin-bottom: 48px;
