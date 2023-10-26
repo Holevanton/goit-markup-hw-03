@@ -41,7 +41,6 @@ img{
     width: 1440px;
     margin-left: auto; 
     margin-right: auto;
-    display: flex;
     justify-content: space-between;
 }
 .page-navigator{
@@ -77,10 +76,6 @@ img{
 .menu-link:hover,
 .menu-link:focus{
     color: #404bbf;
-}
-.menu-item{
-    padding-top: 24px;
-    padding-bottom: 24px;
 }
 .page-address{
     font-style: normal;
