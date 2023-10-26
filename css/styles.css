@@ -110,7 +110,9 @@ img{
     background-color: #2E2F42;
     padding-top: 188px;
     padding-bottom: 188px;
-   
+}
+.hero{
+    
 }
 .hero-section-text{
     letter-spacing: 0.02em;
@@ -138,13 +140,27 @@ img{
     min-width: 169px;
     height: 56px;
     border: none;
-    cursor: pointer; 
+    cursor: pointer;
+    margin-left: auto;
+    margin-right: auto;
 }
 .one-button:hover,
 .one-button:focus{
     background-color: #404BBF ;
 }
-
+.visually-hidden{
+    position: absolute;
+    width: 1px;
+    height: 1px;
+    margin: -1px;
+    border: 0;
+    padding: 0;
+    
+    white-space: nowrap;
+    clip-path: inset(100%);
+    clip: rect(0 0 0 0);
+    overflow: hidden;
+}
 .menu-functions-list{
     display: flex;
     gap: 24px; 
@@ -179,6 +195,7 @@ margin-bottom: 8px;
     background-color: #FFFFFF;
     justify-content: center;
     background: var(--WHITE, #FFF);
+    border-radius: 0px 0px 4px 4px;
 }
 .name-team-text{
     font-weight: 500;
