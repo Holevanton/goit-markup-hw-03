@@ -52,7 +52,7 @@ img{
 }
 .menu-list{
     display: flex;
-    column-gap: 40px;
+    gap: 40px;
 }
 .web-logo {
     font-family: "Raleway", sans-serif;
@@ -62,7 +62,7 @@ img{
     letter-spacing: 0.03em;
     text-transform: uppercase;
     color: #4D5AE5;
-    margin-right: 72px;
+    margin-right: 76px;
 }
 .studio {
     color:#2e2f42;
@@ -83,7 +83,7 @@ img{
 }
 .menu-contact-list{
     display: flex;
-    column-gap: 40px;
+    gap: 40px;
 }
 
 
