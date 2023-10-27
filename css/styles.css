@@ -162,8 +162,7 @@ img{
     overflow: hidden;
 }
 .menu{
-   
-    margin-bottom: 8px;
+   margin-bottom: 8px;
 }
 .menu-functions-list{
     display: flex;
@@ -173,11 +172,6 @@ img{
     background-color: #FFFFFF;
     width: calc((100% - 72px) / 4);
 }
-.image{
-    margin-bottom: 8px;
-}
-
-
 .menu-team{
     background-color: #F4F4FD;
 }
@@ -236,6 +230,10 @@ img{
     flex-wrap: wrap;
     row-gap: 48px;
 }
+.image{
+    margin-bottom: 8px;
+}
+
 
 .menu-footer{
     background-color:#2E2F42 ;
