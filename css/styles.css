@@ -162,7 +162,7 @@ img{
     overflow: hidden;
 }
 .menu{
-    text-align: center;
+   
     margin-bottom: 8px;
 }
 .menu-functions-list{
@@ -176,9 +176,7 @@ img{
 .image{
     margin-bottom: 8px;
 }
-.function{
-    text-align: center; 
-}
+
 
 .menu-team{
     background-color: #F4F4FD;
