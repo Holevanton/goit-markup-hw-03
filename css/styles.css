@@ -173,6 +173,9 @@ img{
     background-color: #FFFFFF;
     width: calc((100% - 72px) / 4);
 }
+.image{
+    margin-bottom: 8px;
+}
 .function{
     text-align: center; 
 }
